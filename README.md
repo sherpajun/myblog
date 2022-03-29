@@ -5,4 +5,5 @@ still doing
 추가 작성 대기중 한꺼번에 업로드 할 예정<br>
 작성중 2022-03-03<br>
 개인사정으로 중지<br>
+Cuz finish quantity by covid19<br>
 Next.js
