@@ -7,4 +7,4 @@ still doing
 개인사정으로 중지<br>
 Cuz finish quantity by covid19<br>
 Next.js
-<br>정리하기 다시
+<br>정리하기 다시.
